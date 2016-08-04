@@ -1,0 +1,40 @@
+_repo: Aaron-s-Rod_4520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, David Herbert
+    - Lawrence, D.H.
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: "Aaron's Rod is a novel by D. H. Lawrence, started in 1917 and published\
+  \ in 1922.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4520'
+  wikidata: Q4661765
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Bohemianism -- Fiction'
+- !lcsh 'Florence (Italy) -- Fiction'
+- !lcsh 'Runaway husbands -- Fiction'
+- GITenberg
+title: Aaron's Rod
+url: http://www.gutenberg.org/ebooks/4520
+wikipedia:
+- https://en.wikipedia.org/wiki/Aaron%27s_Rod_(novel)
+- https://it.wikipedia.org/wiki/La_verga_d%27Aronne
